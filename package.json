@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test-all": "jest",
-    "test": "jest ./main.test.js"
+    "test": "jest ./asynchronous.test.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.27.2",
     "jest": "^28.1.1"
   }
 }
-
