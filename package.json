@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test-all": "jest",
-    "test": "jest ./asynchronous.test.js"
+    "test": "jest ./mock.test.js"
   },
   "author": "",
   "license": "ISC",
